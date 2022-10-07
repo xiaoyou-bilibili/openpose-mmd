@@ -1,0 +1,13 @@
+opencv-python~=4.5.3.56
+numpy~=1.16.5
+imageio~=2.9.0
+tensorflow~=1.13.1
+pillow~=9.0.0
+matplotlib~=3.0.0
+tqdm~=4.62.3
+h5py~=3.7.0
+six~=1.16.0
+scikit-image~=0.15.0
+scipy~=1.7.3
+pyqt5~=5.15.6
+dlib~=19.22.1
